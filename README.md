@@ -15,6 +15,7 @@
   - Java
 </br>
 ## 3. Code - 영단어 게임
+
 package mini_project;
 
 import java.util.Scanner;
@@ -251,7 +252,7 @@ public class English_game {
 		}
 	}
 }
-### 4. Code - 수학 게임
+## 4. Code - 수학 게임
 package Minegame1;
 import java.util.Random;
 import java.util.Scanner;
