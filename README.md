@@ -1,4 +1,4 @@
-# :pushpin: 미니 겜임 (영단어, 수학) 🍧🍨🍩
+# :pushpin: 공부하는 겜임 (영단어, 수학) 🍧🍨🍩
 > 질문을 통해서 영어를 공부할 수 있음 </br>
 > Level: easy, normal, hard
 </br>
