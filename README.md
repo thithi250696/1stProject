@@ -14,6 +14,7 @@
   - MySQL Oracle 11
   - Java
 </br>
+
 ## 3. Code - 영단어 게임
 
 package mini_project;
@@ -252,6 +253,7 @@ public class English_game {
 		}
 	}
 }
+</br>
 ## 4. Code - 수학 게임
 package Minegame1;
 import java.util.Random;
